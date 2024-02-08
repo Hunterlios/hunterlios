@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm Jakub Mrozek a front-end and mobile developer</h2>
 
-# 💫 About Me:
+## 💫 About Me:
 📖 I am currently studying Computer Science at Silesian University of Technology.
 
 
