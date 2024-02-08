@@ -6,7 +6,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunterlios&show_icons=true&locale=en&layout=compact" alt="hunterlios" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hunterlios&show_icons=true&locale=en" alt="hunterlios" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunterlios&show_icons=true&locale=en" alt="hunterlios" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
