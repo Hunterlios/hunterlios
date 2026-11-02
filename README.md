@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Jakub Mrozek a front-end and mobile developer</h2>
 
 ### 💫 About Me:
-📖 I am currently studying Computer Science at Silesian University of Technology.
+📖 Computer science engineer and frontend developer.
 
 
  
