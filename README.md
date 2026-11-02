@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Jakub Mrozek a front-end</h2>
+<h2 align="left">Hi 👋! I'm Jakub Mrozek a front-end developer</h2>
 
 ### 💫 About Me:
 📖 Computer science engineer and frontend developer.
